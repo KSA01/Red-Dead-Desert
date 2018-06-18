@@ -1,7 +1,7 @@
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 this_is_a_map 'yes'
 
-data_file 'DLC_ITYP_REQUEST' 'stream/rdd.ityp'
+data_file 'DLC_ITYP_REQUEST' 'stream/rdd_main.ityp'
 
 files {
     'stream/rdd_airfield_hangers.ybn',
@@ -91,7 +91,10 @@ files {
 	'stream/rdd_rocks11.ydr',
 	'stream/rdd_rocks12.ybn',
 	'stream/rdd_rocks12.ydr',
-	'stream/rdd_rocks13.ydr',
+	'stream/rdd_rocks13a.ydr',
+	'stream/rdd_rocks13b.ydr',
+	'stream/rdd_rocks13c.ydr',
+	'stream/rdd_rocks13d.ydr',
 	'stream/rdd_rocks13_1.ybn',
 	'stream/rdd_rocks13_2.ybn',
 	'stream/rdd_rocks14.ybn',
